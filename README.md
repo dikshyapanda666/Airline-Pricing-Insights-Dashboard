@@ -27,10 +27,6 @@ The dashboard provides business insights into:
 - Dashboard Design
 - Business Insight Analysis
 
-## 📈 Dashboard Preview
-![Dashboard Screenshot](Screenshots/Airlines Dashboards.png)
-
-
 ## 🎯 Learning Outcomes
 - Data storytelling
 - Business KPI analysis
